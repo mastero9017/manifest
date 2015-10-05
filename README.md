@@ -1,4 +1,4 @@
-DARKPOP Project Manifest
+UBERMALLOW Project Manifest
 ===================
 
 To initialize your local repository use
