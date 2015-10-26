@@ -13,7 +13,7 @@
            remote="aosp"
            sync-j="4" />
 
-  <project path="build" name="build" remote="um" revision="master" >
+  <project path="build" name="mastero9017/build" remote="gh" revision="master" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="manifest" name="mastero9017/manifest" remote="gh" revision="master" />
