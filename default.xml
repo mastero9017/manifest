@@ -29,9 +29,7 @@
   <project path="development" name="platform/development" groups="pdk-cw-fs,pdk-fs" />
   <project path="device/common" name="device/common" groups="pdk-cw-fs,pdk-fs" />
   <project path="device/lge/hammerhead" name="mastero9017/device_lge_hammerhead" remote="gh" revision="master" />
-  <project path="kernel/lge/hammerhead" name="kernel_lge_hammerhead" remote="um" revision="master" />
-  <project path="device/moto/shamu" name="device_moto_shamu" remote="um" revision="master" />
-  <project path="kernel/moto/shamu" name="DespairFactor/N6" remote="gh" revision="CFS-test" />  
+  <project path="kernel/lge/hammerhead" name="kernel_lge_hammerhead" remote="um" revision="master" />  
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/android-mock" name="platform/external/android-mock" groups="pdk-cw-fs,pdk-fs" />
@@ -425,8 +423,7 @@
   <project path="tools/studio/translation" name="platform/tools/studio/translation" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
-  <project path="vendor/lge" name="vendor_lge_minimal" remote="um" revision="master" />
-  <project path="vendor/moto" name="vendor_moto_shamu" remote="um" revision="master" />
+  <project path="vendor/lge" name="mastero9017/vendor_lge_minimal" remote="gh" revision="master" />
   <project path="vendor/uber" name="vendor" remote="um" revision="master"  />
 
 </manifest>
