@@ -29,7 +29,7 @@
   <project path="development" name="platform/development" groups="pdk-cw-fs,pdk-fs" />
   <project path="device/common" name="device/common" groups="pdk-cw-fs,pdk-fs" />
   <project path="device/lge/hammerhead" name="device_lge_hammerhead" remote="um" revision="master" />
-  <project path="kernel/lge/hammerhead" name="kernel_lge_hammerhead" remote="um" revision="master" />  
+  <project path="kernel/lge/hammerhead" name="kernel_lge_hammerhead" remote="um" revision="master" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/android-mock" name="platform/external/android-mock" groups="pdk-cw-fs,pdk-fs" />
@@ -338,7 +338,7 @@
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" groups="pdk-fs" />
   <project path="packages/apps/InCallUI" name="packages_apps_InCallUI" remote="um" revision="master" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" groups="pdk-fs" />
-  <project path="packages/apps/Launcher3" name="OptiPop/packages_apps_Launcher3"  remote="gh" revision="opti-5.1" />
+  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="um" revision="master" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" groups="pdk-fs" />
   <project path="packages/apps/ManagedProvisioning" name="platform/packages/apps/ManagedProvisioning" groups="pdk-fs" />
   <project path="packages/apps/Messaging" name="platform/packages/apps/Messaging" groups="pdk-fs" />
